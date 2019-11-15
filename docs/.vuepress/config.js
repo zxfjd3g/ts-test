@@ -23,7 +23,6 @@ module.exports = {
         collapsable: false,
         children: [
           'chapter2/1_type',
-          'chapter2/2_declare',
           'chapter2/3_interface',
           'chapter2/4_class',
           'chapter2/5_function',
